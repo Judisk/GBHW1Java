@@ -6,8 +6,6 @@ public class EX2 {
         for (i=2;i<1000;i++){
             if(checkSimple(i))
                 System.out.println(i);}
-
-
     }
 
     public static boolean checkSimple(int i){
